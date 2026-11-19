@@ -18,7 +18,7 @@ Study note: Genesis 6 records the unions and the Nephilim; the two long-standing
 Prayer note: Lord, You see the violence and the dishonor; keep Your people distinct.
 
 # Published
-1. GitHub:
+1. GitHub: https://github.com/KJC-DNN/Album123_Mighty_Men_of_Old_and__Sons_of_God/releases/tag/123.0.0
 2. Archive: album-123-mighty-men-of-old-and-sons-of-god-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24375116
    
