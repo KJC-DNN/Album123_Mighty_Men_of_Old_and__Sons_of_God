@@ -21,4 +21,10 @@ Prayer note: Lord, You see the violence and the dishonor; keep Your people disti
 1. GitHub: https://github.com/KJC-DNN/Album123_Mighty_Men_of_Old_and__Sons_of_God/releases/tag/123.0.0
 2. Archive: album-123-mighty-men-of-old-and-sons-of-god-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24375116
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Albums122-124_Instrumentals_The_Heavens_Declare/releases/tag/122-124.0.0
+2. Archive: albums-122-124-instrumentals-the-heavens-declare-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24391676
    
